@@ -2,7 +2,7 @@
 
 A sleek and responsive **Weather Dashboard** built using **HTML**, **CSS**, and **JavaScript**, which fetches real-time weather data using an external HTTP API. This project helps users search for current weather conditions and a 5-day forecast for any city in the world.
 
-![Weather Dashboard Screenshot](./screenshot.png) <!-- optional image -->
+![Weather Dashboard Screenshot](https://github.com/HarSharma16/Weather-Dashboard-Application/blob/main/weather_dashboard.png?raw=true)
 
 ---
 
