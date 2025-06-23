@@ -8,7 +8,7 @@ A sleek and responsive **Weather Dashboard** built using **HTML**, **CSS**, and 
 
 ## 🌐 Live Demo
 
-🚀 [Click here to try the live app](https://vercel.com/harsharma16s-projects/weather-dashboard-application/2581GqadqmdhfpHMfm5xbkJRpMNM)  
+🚀 [Click here to try the live app](https://weather-dashboard-application-two.vercel.app/)  
 
 ---
 
