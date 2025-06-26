@@ -30,14 +30,6 @@ A sleek and responsive **Weather Dashboard** built using **HTML**, **CSS**, and 
 - **Vanilla JavaScript (ES6+)**  
 - **Fetch API** for HTTP requests  
 - **OpenWeatherMap API** (or similar)  
-- **Responsive Design** using Flexbox/Grid  
-- **Animations** using `ScrollReveal.js` / `AOS.js` (optional)
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/weather-dashboard.git
-cd weather-dashboard
-open index.html  # or use Live Server
